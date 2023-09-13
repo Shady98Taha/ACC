@@ -1,0 +1,5 @@
+Ultrasonic_Program.c:27:6:Ultrasonic_VoidInit	1
+Ultrasonic_Program.c:43:6:Ultrasonic_VoidTrigger	1
+Ultrasonic_Program.c:62:6:Ultrasonic_readTimer	3
+Ultrasonic_Program.c:102:12:Ultrasonic_GetDistance	1
+Ultrasonic_Program.c:117:5:Ultrasonic_readDistance	1

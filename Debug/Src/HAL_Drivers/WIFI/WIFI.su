@@ -1,0 +1,7 @@
+../Src/HAL_Drivers/WIFI/WIFI.c:34:6:ESP_VoidArrayFlush	24	static
+../Src/HAL_Drivers/WIFI/WIFI.c:43:15:ESP_VoidResponse	120	static
+../Src/HAL_Drivers/WIFI/WIFI.c:84:6:ESP_VoidInit	16	static
+../Src/HAL_Drivers/WIFI/WIFI.c:101:6:ESP_VoidWifiConnect	16	static
+../Src/HAL_Drivers/WIFI/WIFI.c:119:6:ESP_VoidServerConnect	16	static
+../Src/HAL_Drivers/WIFI/WIFI.c:137:15:ESP_VoidDataReceive	32	static
+../Src/HAL_Drivers/WIFI/WIFI.c:166:6:ESP_VoidServerRequest	32	static

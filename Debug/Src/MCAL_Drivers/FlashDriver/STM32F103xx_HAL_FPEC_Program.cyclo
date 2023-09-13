@@ -1,0 +1,5 @@
+STM32F103xx_HAL_FPEC_Program.c:13:6:FPEC_voidInit	1
+STM32F103xx_HAL_FPEC_Program.c:20:6:FPEC_u8WriteFlash	5
+STM32F103xx_HAL_FPEC_Program.c:41:6:FPEC_u8FlashPageErase	4
+STM32F103xx_HAL_FPEC_Program.c:58:6:FPEC_u8FlashMassErase	4
+STM32F103xx_HAL_FPEC_Program.c:76:6:FPEC_voidEraseAPPArea	2

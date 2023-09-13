@@ -1,0 +1,2 @@
+../Src/MCAL_Drivers/PWM/STM32F103xx_HAL_PWM.c:22:6:PWM_VoidInit	16	static
+../Src/MCAL_Drivers/PWM/STM32F103xx_HAL_PWM.c:473:6:PWM_VoidSetDutyCycle	16	static

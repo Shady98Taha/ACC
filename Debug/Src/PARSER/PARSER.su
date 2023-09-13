@@ -1,0 +1,5 @@
+../Src/PARSER/PARSER.c:15:6:ConvertRecieveToRecord	24	static
+../Src/PARSER/PARSER.c:39:4:ASCITOHEX	24	static
+../Src/PARSER/PARSER.c:53:6:ParseData	40	static
+../Src/PARSER/PARSER.c:85:6:ParseUpperAddress	24	static
+../Src/PARSER/PARSER.c:98:6:Parser_voidParseRecord	16	static

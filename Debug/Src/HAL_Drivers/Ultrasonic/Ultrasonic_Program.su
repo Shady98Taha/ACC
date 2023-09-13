@@ -1,0 +1,5 @@
+../Src/HAL_Drivers/Ultrasonic/Ultrasonic_Program.c:27:6:Ultrasonic_VoidInit	8	static
+../Src/HAL_Drivers/Ultrasonic/Ultrasonic_Program.c:43:6:Ultrasonic_VoidTrigger	8	static
+../Src/HAL_Drivers/Ultrasonic/Ultrasonic_Program.c:62:6:Ultrasonic_readTimer	16	static
+../Src/HAL_Drivers/Ultrasonic/Ultrasonic_Program.c:102:12:Ultrasonic_GetDistance	24	static
+../Src/HAL_Drivers/Ultrasonic/Ultrasonic_Program.c:117:5:Ultrasonic_readDistance	16	static

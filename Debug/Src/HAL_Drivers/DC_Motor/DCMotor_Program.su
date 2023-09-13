@@ -1,0 +1,2 @@
+../Src/HAL_Drivers/DC_Motor/DCMotor_Program.c:19:6:DC_MotorVoidInit	16	static
+../Src/HAL_Drivers/DC_Motor/DCMotor_Program.c:23:6:DC_MOTOR_ON	24	static

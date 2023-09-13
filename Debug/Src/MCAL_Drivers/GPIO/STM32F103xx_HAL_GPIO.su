@@ -1,0 +1,4 @@
+../Src/MCAL_Drivers/GPIO/STM32F103xx_HAL_GPIO.c:13:6:GPIO_VoidSetPinDirection	16	static
+../Src/MCAL_Drivers/GPIO/STM32F103xx_HAL_GPIO.c:62:6:GPIO_VoidSetPinValue	16	static
+../Src/MCAL_Drivers/GPIO/STM32F103xx_HAL_GPIO.c:104:5:GPIO_GetPinValue	24	static
+../Src/MCAL_Drivers/GPIO/STM32F103xx_HAL_GPIO.c:117:6:GPIO_TogglePinValue	16	static

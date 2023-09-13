@@ -1,0 +1,7 @@
+CortexM3_Core_NIVIC.c:22:13:NVIC_EnableIRQ	2
+CortexM3_Core_NIVIC.c:49:13:NVIC_DisableIRQ	2
+CortexM3_Core_NIVIC.c:73:6:NVIC_SetPendingIRQ	1
+CortexM3_Core_NIVIC.c:95:6:NVIC_ClearPendingIRQ	1
+CortexM3_Core_NIVIC.c:121:5:NVIC_GetActive	1
+CortexM3_Core_NIVIC.c:143:6:NVIC_SetPriority	1
+CortexM3_Core_NIVIC.c:163:5:NVIC_GetPriority	1

@@ -1,0 +1,4 @@
+../Src/MCAL_Drivers/UART/STM32F103xx_HAL_UART.c:14:6:MUSART1_VoidInit	4	static
+../Src/MCAL_Drivers/UART/STM32F103xx_HAL_UART.c:27:6:MUSART1_VoidTransmit	16	static
+../Src/MCAL_Drivers/UART/STM32F103xx_HAL_UART.c:37:6:MUSART1_VoidTransmitArray	24	static
+../Src/MCAL_Drivers/UART/STM32F103xx_HAL_UART.c:47:4:MUSART1_VoidReceive	4	static

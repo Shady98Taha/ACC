@@ -1,0 +1,5 @@
+../Src/MCAL_Drivers/RCC/STM32F103xx_HAL_RCC.c:11:17:HAL_RCC_OscConfig	24	static
+../Src/MCAL_Drivers/RCC/STM32F103xx_HAL_RCC.c:50:6:HAL_RCC_PLLConfig	16	static
+../Src/MCAL_Drivers/RCC/STM32F103xx_HAL_RCC.c:90:17:HAL_RCC_ClockConfig	24	static
+../Src/MCAL_Drivers/RCC/STM32F103xx_HAL_RCC.c:110:17:HAL_RCC_ClockEnable	24	static
+../Src/MCAL_Drivers/RCC/STM32F103xx_HAL_RCC.c:129:17:HAL_RCC_ClockDisable	24	static

@@ -1,0 +1,14 @@
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:25:6:Timers_VoidInit	16	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:88:6:Timer_start	16	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:126:6:Timer2_VoidEmptyCounterRegister	4	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:138:6:Timer_stop	16	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:179:6:TIMER2_VoidICUInit	16	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:229:6:Timer2_VoidIcuTriggerEdge	16	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:258:5:TIMER2_U16IcuGetCaptureValue	24	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:278:4:Timer2_U8IcuGetCaptureFlag	24	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:299:6:TIMER2_VoidIcuInterruptEnable	4	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:312:6:Timer2_VoidClearFlag	4	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:324:6:TIMER2_VoidIcuInterruptDisable	4	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:337:6:TIMER2_VoidCallBack	16	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:353:6:Timer2_VoidTimeEventGenerationSet	4	static
+../Src/MCAL_Drivers/TIMERS/STM32F103xx_HAL_TIMERS.c:359:6:TIM2_IRQHandler	8	static
